@@ -5,7 +5,7 @@
   <foaf:Person rdf:about="#me">
     <foaf:name>fatima lamsyah</foaf:name>
     <foaf:mbox rdf:resource="mailto:lamsyah.fatima1@gmail.com"/>
-    <foaf:homepage rdf:resource=""/>
+    <foaf:homepage rdf:resource="https://github.com/Lamsyah-Fatima/FOAF/blob/main/homepage.html"/>
     
     <foaf:img rdf:resource="URL_de_votre_photo_de_profil"/>
     <foaf:bio>hello my name is fatima</foaf:bio>
