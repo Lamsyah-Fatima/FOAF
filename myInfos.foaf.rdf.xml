@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  
+  <foaf:Person rdf:about="#me">
+    <foaf:name>fatima lamsyah</foaf:name>
+    <foaf:mbox rdf:resource="mailto:lamsyah.fatima1@gmail.com"/>
+    <foaf:homepage rdf:resource=""/>
+    
+    <foaf:img rdf:resource="URL_de_votre_photo_de_profil"/>
+    <foaf:bio>hello my name is fatima</foaf:bio>
+    <foaf:phone>0612365478</foaf:phone>
+    <foaf:based_near>La rochelle</foaf:based_near>
+    
+    <foaf:account>
+      <foaf:OnlineAccount>
+        <foaf:accountServiceHomePage rdf:resource="URL_du_service_de_compte"/>
+        <foaf:accountName>lamsyah fatima</foaf:accountName>
+      </foaf:OnlineAccount>
+    </foaf:account>
+  </foaf:Person>
+</rdf:RDF>
